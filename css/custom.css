@@ -8,7 +8,7 @@
 .tp-caption.MelodyButton,
 .MelodyButton{color:rgba(51,55,69,1.00);font-size:14px;line-height:18px;font-weight:600;font-style:normal;font-family:Open Sans;padding:12px 35px 12px 35px;text-decoration:none;text-align:left;background-color:rgba(255,246,115,1.00);border-color:rgba(0,0,0,1.00);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;padding:1em 2.3em}
 .tp-caption.MelodyButton:hover,
-.MelodyButton:hover{color:rgba(255,255,255,1.00);text-decoration:none;background-color:rgba(92,200,191,1.00);border-color:rgba(0,0,0,1.00);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;cursor:pointer}
+.MelodyButton:hover{color:rgba(255,255,255,1.00);text-decoration:none;background-color:#d2746b;border-color:rgba(0,0,0,1.00);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;cursor:pointer}
 
 a.eg-henryharrison-element-1,
 a.eg-henryharrison-element-2 {
@@ -309,7 +309,7 @@ a.eg-henryharrison-element-2 {
   font-weight: 400!important;
   padding: 17px 17px 17px 17px!important;
   border-radius: 60px 60px 60px 60px!important;
-  background-color: rgba(92, 200, 190, 1.00)!important;
+  background-color:#d2746b!important;
   z-index: 2!important;
   display: block;
   font-family: "Open Sans"!important;
@@ -323,7 +323,7 @@ a.eg-henryharrison-element-2 {
 .eg-melody-element-0:hover {
   font-size: 16px!important;
   line-height: 22px!important;
-  color: #5cc8be!important;
+  color: #d2746b!important;
   font-weight: 400!important;
   border-radius: 60px 60px 60px 60px!important;
   background-color: rgba(255, 255, 255, 1.00)!important;
